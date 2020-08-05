@@ -1,8 +1,3 @@
-quill-editor-blog is being sponsored by the following tool <br />
-Please help to support us by taking a look and signing up to a free trial
-<a href="https://tracking.gitads.io/?repo=quill-editor-blog"><img src="https://images.gitads.io/quill-editor-blog" alt="GitAds"/></a> 
-
-
 Hello, My Friends  
 Thank you for having interest in this repository ! 
 
